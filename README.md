@@ -911,46 +911,6 @@ Reports
 PASS / FAIL
 ```
 
-Main command:
-
-```bash
-mvn clean test
-```
-
-
-
-
-
-```text
-Java
- │
- ├── Selenium
- │     └── UI Automation
- │
- ├── TestNG
- │     └── Test Execution
- │
- ├── Rest Assured
- │     └── API Automation
- │
- ├── POM
- │     └── Maintainable Framework
- │
- ├── Maven
- │     └── Build Management
- │
- ├── Git/GitHub
- │     └── Version Control
- │
- ├── Jenkins
- │     └── CI/CD
- │
- ├── SQL
- │     └── Database Validation
- │
- └── Reporting/Logging
-       └── Test Analysis
-```
 
 ## 👨‍💻 Author
 
