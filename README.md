@@ -1,8 +1,7 @@
-# E-Commerce Test Automation Framework
+# E-Commerce Test Automation 
 
 A complete **end-to-end test automation framework** for an e-commerce application using **Java, Selenium, TestNG, Rest Assured, Maven, Git, and Jenkins**.
 
-The project is designed to demonstrate real-world **SDET automation practices**, including UI automation, API automation, integration testing, reusable framework components, reporting, and CI/CD.
 
 ---
 
@@ -49,16 +48,10 @@ The main objectives are:
 * Automate critical e-commerce workflows.
 * Automate UI scenarios using Selenium WebDriver.
 * Automate REST APIs using Rest Assured.
-* Use TestNG for test execution and assertions.
-* Build a maintainable Page Object Model framework.
-* Implement reusable utilities and configuration management.
-* Support multiple environments.
-* Implement data-driven testing.
+* Use TestNG for test execution and assertions. 
 * Generate test execution reports.
 * Integrate the framework with Git and Jenkins.
 * Execute UI and API tests through CI/CD.
-* Demonstrate UI + API + database validation where applicable.
-
 ---
 
 # 🛠️ Technology Stack
@@ -73,9 +66,6 @@ The main objectives are:
 | Git                     | Version control                    |
 | GitHub                  | Source code repository             |
 | Jenkins                 | CI/CD                              |
-| Jackson                 | JSON serialization/deserialization |
-| Log4j2 / SLF4J          | Logging                            |
-| Allure / Extent Reports | Test reporting                     |
 | SQL                     | Database validation                |
 
 ---
