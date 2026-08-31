@@ -296,9 +296,7 @@ The testing work in this repository represents my own testing practice and docum
 
 # 👨‍💻 Author
 
-**Your Name**
-
-QA Engineer | Software Tester
+**Junaid**
 
 Skills:
 
